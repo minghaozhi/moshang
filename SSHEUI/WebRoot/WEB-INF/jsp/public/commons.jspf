@@ -1,0 +1,19 @@
+<%@ taglib prefix="s" uri="/struts-tags"%>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="${pageContext.request.contextPath}/script/formValidator/style/validator.css" rel="stylesheet" type="text/css" />
+<link href="${pageContext.request.contextPath}/style/css/jspList.css" rel="stylesheet" type="text/css" />
+
+<link href="${pageContext.request.contextPath}/script/themes/default/easyui.css" rel="stylesheet" type="text/css" />
+<link href="${pageContext.request.contextPath}/script/themes/icon.css" rel="stylesheet" type="text/css" />
+
+<script src="${pageContext.request.contextPath}/script/jquery-1.11.js" type="text/javascript"></script>
+
+<script src="${pageContext.request.contextPath}/script/jquery.easyui.min.js" type="text/javascript"></script>
+<script src="${pageContext.request.contextPath}/script/easyui-lang-zh_CN.js" type="text/javascript"></script>
+<script src="${pageContext.request.contextPath}/script/jquery.validatebox.rules.js" type="text/javascript"></script>
+
+<script src="${pageContext.request.contextPath}/script/jquery.blockUI.js" type="text/javascript" ></script>
+
+<script type="text/javascript"></script>
+
